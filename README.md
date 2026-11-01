@@ -21,9 +21,9 @@ build step.
 
 | Way | How |
 | --- | --- |
-| **Hosted link** (easiest) | Open https://chag60460.github.io/bolto-offer-prototype/ in any current browser, including on a phone. |
+| **Hosted link** (easiest) | Open the [prototype](https://chag60460.github.io/bolto-offer-prototype/) in any current browser, including on a phone. The [launch announcement](https://chag60460.github.io/bolto-offer-prototype/launch.html) is hosted too. |
 | **ZIP** | Download and extract the ZIP, then open `index.html` in a current browser. |
-| **Clone** | Clone the repository, then open [index.html](./index.html) in a current browser. |
+| **Clone** | Clone [the repository](https://github.com/chag60460/bolto-offer-prototype), then open `index.html` in a current browser. |
 
 If your browser blocks saving drafts for files opened straight from disk (ZIP
 or clone), use the hosted link; everything else works either way.
@@ -115,7 +115,8 @@ example with the browser's device toolbar).
 ## Launch announcement
 
 A landing-page section announcing the feature to customers, as if it ships
-next month: [launch.html](./launch.html).
+next month: [open the launch page](https://chag60460.github.io/bolto-offer-prototype/launch.html)
+(`launch.html`).
 
 - **Message:** "Offers out the door in minutes." It sells the outcome rather
   than the features: type what's new, reuse the rest, and send knowing
@@ -169,8 +170,8 @@ while Review & send's *Ready* is a complete offer.
 
 | Moment | Empty | Partly filled | Invalid | Ready |
 | --- | --- | --- | --- | --- |
-| Candidate & role | [Open](./index.html?screen=candidate&preset=empty) | [Open](./index.html?screen=candidate&preset=partial) | [Open](./index.html?screen=candidate&preset=invalid) | [Open](./index.html?screen=candidate&preset=ready) |
-| Review & send | [Open](./index.html?screen=review&preset=empty) | [Open](./index.html?screen=review&preset=partial) | [Open](./index.html?screen=review&preset=invalid) | [Open](./index.html?screen=review&preset=ready) |
+| Candidate & role | [Open](https://chag60460.github.io/bolto-offer-prototype/index.html?screen=candidate&preset=empty) | [Open](https://chag60460.github.io/bolto-offer-prototype/index.html?screen=candidate&preset=partial) | [Open](https://chag60460.github.io/bolto-offer-prototype/index.html?screen=candidate&preset=invalid) | [Open](https://chag60460.github.io/bolto-offer-prototype/index.html?screen=candidate&preset=ready) |
+| Review & send | [Open](https://chag60460.github.io/bolto-offer-prototype/index.html?screen=review&preset=empty) | [Open](https://chag60460.github.io/bolto-offer-prototype/index.html?screen=review&preset=partial) | [Open](https://chag60460.github.io/bolto-offer-prototype/index.html?screen=review&preset=invalid) | [Open](https://chag60460.github.io/bolto-offer-prototype/index.html?screen=review&preset=ready) |
 
 ### Design choices: Candidate & role
 
