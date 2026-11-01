@@ -1,0 +1,19 @@
+{
+  "name": "bolto-offer-prototype",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Standalone, static offer-creation prototype with dummy data.",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "test": "playwright test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.14.0",
+    "@fontsource-variable/inter": "^5.3.0",
+    "@playwright/test": "^1.64.1"
+  }
+}
